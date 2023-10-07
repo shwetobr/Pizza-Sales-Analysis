@@ -1,0 +1,34 @@
+Pizza Sales Analysis
+
+KPI's Requirement
+
+We need to analyse Key Indecators for our Pizza Sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
+
+1. Total Revenue:- The sum of total price of all pizza orders.
+
+2. Average Order Value:- The average amount spent per order.
+
+3. Total Pizza Sold:- The sum of all quantities of all pizzas sold.
+
+4. Total Orders:- The total number of order placed.
+
+5. Average Pizzas Per Order:- The average number of pizza sold per order.
+
+Chart Requirement
+
+We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating Charts:
+
+1. Daily trend for total orders:- Create a bar chart and displays the daily trends of total orders over a specific time period. This chart will allow us to identify any patterns or flactuations in the order volume on a daily basis.
+
+2. Hourly trends for total orders:- Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high value activity.
+
+3. Percentage of sales by pizza category:- Creat a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales.
+
+4. Percentage of sales by Pizza Size:- Generate a pie chart that represent the percentage of sales attributed to different pizza size. This chart will help us understand customer preferences for pizza sizes and their impact on sales.
+
+5. Total Pizza sold by pizza category:- Create a funnel chart that represents the total number of pizzas sold for each pizza category. This char will allow us compare the sales performance of different pizza categories.
+
+6. Top 5 best sellers by total pizzas sold:- Create a bar chart hilighting the top 5 best-selling pizzas based on the total number of pizza sold. This chart will help us identify the most popular pizza options.
+
+7. Bottom 5 worst sellers by total pizzas sold:- Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizza sold. This chart will help us identify underperforming or less popular pizza options.
+ 
